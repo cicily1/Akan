@@ -1,0 +1,14 @@
+.akan{
+    background-image:url(ak.jpg);
+    background-size :cover;
+    background-position :center;
+    height:100vh;
+    background-repeat: no-repeat;
+}
+.welcome-section{
+    color:#fc0404f4
+}
+.padding-0{
+    padding-left:0;
+    padding-right: 0;
+}
